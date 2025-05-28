@@ -36,13 +36,13 @@ $--theme-on-surface: --theme-on-surface;
 
 // Default dark theme
 $theme-map-dark: (
-    $--theme-background:   #25274D,  //darker
-    $--theme-primary:      #2E9CCA,  //bright
-    $--theme-secondary:    #AAABB8,  //grey
+    $--theme-background:   #3d3d3b,  //darker
+    $--theme-primary:      #ffc803,  //bright
+    $--theme-secondary:    #86807d,  //grey
     $--theme-tertiary:     #29648A,  //light
-    $--theme-surface:      #464866,  //dark
-    $--theme-on-primary:   #25274D,  //darker
+    $--theme-surface:      #d4cec4,  //dark
+    $--theme-on-primary:   #57554e,  //darker
     $--theme-on-secondary: #29648A,  //light
     $--theme-on-tertiary:  #AAABB8,  //grey
-    $--theme-on-surface:   #2E9CCA,  //bright
+    $--theme-on-surface:   #ffc803,  //bright
 );

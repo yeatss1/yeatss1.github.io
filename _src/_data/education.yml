@@ -1,40 +1,27 @@
-- school: Université Grenoble Alpes / MSTII
-  degree: PhD in Applied Mathematics
-  date: October 2022 - present
-  link: https://doctorat.univ-grenoble-alpes.fr/
+# - school: Université Grenoble Alpes / MSTII
+#   degree: PhD in Applied Mathematics
+#   date: October 2022 - present
+#   link: https://doctorat.univ-grenoble-alpes.fr/
+#   description: |
+#     Studied mathematical modelling of microbiological systems, nonlinear systems
+#     state observation and control through literature and followed courses.
+
+- school: Sorbonne Université
+  degree:   CMI Mechanical Engineering (Undergraduate)
+  date: September 2023 - July 2026
+  link: https://sciences.sorbonne-universite.fr/licences-intensives-et-cmi/cursus-master-en-ingenierie-cmi/cursus-master-en-ingenierie-specialite-0
   description: |
-    Studied mathematical modelling of microbiological systems, nonlinear systems
-    state observation and control through literature and followed courses.
+    French undergraduate mechanical engineering (Cursus Master en Ingénierie) program following 6 ECTS bonus classes
+    per semester for a double diploma after 5 years of curriculum. 
+    Exchange semester in China at Zhejiang University (3rd best university in China) during the 6th semester.
 
-#- school: Université de Lorraine
-#  degree: Fundamental and Applied Mathematics
-#  date: September 2021 - August 2022
-#  link: https://iecl.univ-lorraine.fr/master-2-mfa/
-#  description: |
-#    Research-oriented Master's program with focus on
-#    PDEs, Lie Algebras, and Control Theory.
-
-- school: INSA Rouen Normandie
-  degree: Mathematical Engineering
-  date: September 2014 - August 2021
-  link: https://www.insa-rouen.fr/en/education/engineering-specialization/mathematical-and-software-engineering
+- school: Lycée Jules Guesdes - Montpellier, France
+  degree: Baccalauréat specialized in Maths - Physics with bonus classes in Maths and Japanese
+  date: September 2020 - July 2023
+  link : https://jules-guesde.mon-ent-occitanie.fr/
   description: |
-    French graduate engineering program (Diplôme d'Ingénieur)
-    with focus on applied mathematics and computer science.
+    Completed three years of high school at Lycée Jules Guesde in Montpellier, in the south of France.
+    Followed a scientific track with a specialization in Advanced Mathematics (Maths expertes) and studied Japanese as an elective language.
 
-- school: Université de Rouen
-  degree: Theoretical and Applied Computer Science
-  date: September 2019 - August 2020
-  link: https://dpt-info-sciences.univ-rouen.fr/index.php/accueil-mita
-  description: |
-    Research-oriented Master's program with focus on algebra, theoretical
-    computer science, and preparation for PhD.
 
-- school: Little Village School
-  degree: Syrian Scientific Baccalaureate
-  date: June 2013
-  link: https://www.littlevillageschool.com/
-  description: |
-    Rich school program that gave me a head start in later studies.
 
-    Graduation grade 92.17%
