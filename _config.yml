@@ -1,14 +1,13 @@
 # site variables
-url:          "https://rand-asswad.xyz"
+url:          "https://yeatss1.github.io/"
 baseurl:      ""
 source:       ./_src
 destination:  ./_site
 
 # meta
-title: Rand Asswad
+title: yeatss1
 description: | # appears in search engines preview (keep it under 120 chars)
-  Rand Asswad is an engineer in applied mathematics and computer science, 
-  specialized in AI and mathematical modeling.
+  yeats is a 3rd year Mechanical Engineering student at Sorbonne Université.
 
 # jekyll collections
 collections:
