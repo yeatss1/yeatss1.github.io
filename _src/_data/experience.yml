@@ -2,7 +2,7 @@
   company_w_location: ISIR at Sorbonne Université - Paris, France
   link: https://www.isir.upmc.fr/?lang=en
   title: Reaserch Intern - Generation of trajectories and avoidance of singularities for a planar 3RRR manipulator robot
-  pdf : assets/3RRR_Rapport.pdf
+  pdf : 3RRR_Rapport.pdf
   date: October 2025 - December 2025
   description: |
     The internship focused on the study and control of a planar 3RRR parallel robot and the avoidance of the singularities that may occurs. 
