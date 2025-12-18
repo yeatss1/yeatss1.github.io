@@ -6,14 +6,10 @@
   date: October 2025 - December 2025
   description: |
     The internship focused on the study and control of a planar 3RRR parallel robot and the avoidance of the singularities that may occurs. 
-      
     During the internship we started from scratch for this project. We started by looking at the geometric modeling and determinated the inverse kinematics equations. Then we followed by the analysis of serial and parallel singularities and their impact on the robot workspace.
-    
     We also created a simulator in python to validate the kinematic model and to ensure the robot was not going to run trought singularities and so break itself.
-    
     Then we implemented our inverse kinematics into our real robot that was using Dynamixel MX-28 servomotors. The algorithms logic was this one ; first the robot initialize itself and go to the center of the circle. Then it follows a path that we created previously (might be a circle, a square, whatever we want).
     If the robot encounter a singularity it stops itself. We sadly did not have the time to make the robot avoid singularities. 
-    
     Here is a link of our paper (wrote in French) and of a poster (EN) to pursue reading about this internship in more details. 
 
 
@@ -24,12 +20,8 @@
   date: July - august 2024
   description: |
     Six-week internship during summer 2024, during which I developed a news management and publishing software. The articles created are directly displayed and accessible to users via the company’s main software, Méd'Oc.
-
     The tool allows full management of the article database, including adding new articles, editing existing ones, archiving, and deleting them. It also enables scheduled publication, automatic expiration after a set period, and the ability to assign an importance level to each article.
-
     Throughout this internship, I gained valuable technical skills. I developed the software in Python, using graphical libraries, which helped me better understand how to design user-friendly and functional applications.
-
     I also strengthened my knowledge of SQL, as well as HTML and XML. I discovered how LDAP and FTP servers work and learned to use LdapAdmin and WinSCP for server management and administration.
-
     Lastly, I learned to use DBeaver to interact with a PostgreSQL database.
 
