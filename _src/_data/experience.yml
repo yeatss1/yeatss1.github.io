@@ -1,18 +1,19 @@
-- company: "ISIR :Institut des Systèmes Intelligents et de Robotique" 
-  company_w_location: "ISIR - Sorbonne Université, Paris, France"
+- company: ISIR (Institut des Systèmes Intelligents et de Robotique) 
+  company_w_location: ISIR at Sorbonne Université - Paris, France
   link: https://www.isir.upmc.fr/?lang=en
-  title: "Reaserch Intern - Generation of trajectories and avoidance of singularities for a planar 3RRR manipulator robot"
+  title: Reaserch Intern - Generation of trajectories and avoidance of singularities for a planar 3RRR manipulator robot
   date: October 2025 - December 2025
-  description: 'The internship focused on the study and control of a planar 3RRR parallel robot and the avoidance of the singularities that may occurs. 
-  
-+'During the internship we started from scratch for this project. We started by looking at the geometric modeling and determinated the inverse kinematics equations. Then we followed by the analysis of serial and parallel singularities and their impact on the robot workspace.
-
-+'We also created a simulator in python to validate the kinematic model and to ensure the robot was not going to run trought singularities and so break itself.
-
-+'Then we implemented our inverse kinematics into our real robot that was using Dynamixel MX-28 servomotors. The algorithms logic was this one ; first the robot initialize itself and go to the center of the circle. Then it follows a path that we created previously (might be a circle, a square, whatever we want).
-+'If the robot encounter a singularity it stops itself. We sadly did not have the time to make the robot avoid singularities. 
-
-+'Here is a link of our paper (wrote in French) and of a poster (EN) to pursue reading about this internship in more details. '
+  description: |
+    The internship focused on the study and control of a planar 3RRR parallel robot and the avoidance of the singularities that may occurs. 
+      
+    During the internship we started from scratch for this project. We started by looking at the geometric modeling and determinated the inverse kinematics equations. Then we followed by the analysis of serial and parallel singularities and their impact on the robot workspace.
+    
+    We also created a simulator in python to validate the kinematic model and to ensure the robot was not going to run trought singularities and so break itself.
+    
+    Then we implemented our inverse kinematics into our real robot that was using Dynamixel MX-28 servomotors. The algorithms logic was this one ; first the robot initialize itself and go to the center of the circle. Then it follows a path that we created previously (might be a circle, a square, whatever we want).
+    If the robot encounter a singularity it stops itself. We sadly did not have the time to make the robot avoid singularities. 
+    
+    Here is a link of our paper (wrote in French) and of a poster (EN) to pursue reading about this internship in more details. 
 
 
 - company: A.D.SION Info Santé
