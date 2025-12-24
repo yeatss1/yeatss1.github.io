@@ -113,7 +113,6 @@
   - item : Software / Tools
     sublist :
     - Visual Studio Code
-    - ROS 
     - CATIA 
   - item: Operating Systems
     sublist:
